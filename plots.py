@@ -1,5 +1,8 @@
 import matplotlib.pyplot as plt
 
+
+
+
 def plot(arr1, arr2, label1, label2, title, save_path, kind, figsize=(10,5)):
     """
     TODO
